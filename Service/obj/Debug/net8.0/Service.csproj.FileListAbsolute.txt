@@ -1,0 +1,17 @@
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\Service.deps.json
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\Service.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\Service.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\ModelA.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\Repository.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\ModelA.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\bin\Debug\net8.0\Repository.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.csproj.CopyComplete
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\refint\Service.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\Service.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Service\obj\Debug\net8.0\ref\Service.dll

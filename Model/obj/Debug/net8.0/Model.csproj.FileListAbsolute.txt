@@ -1,0 +1,11 @@
+D:\ky 8\prn231\Assignment1_PRN231\Model\bin\Debug\net8.0\Model.deps.json
+D:\ky 8\prn231\Assignment1_PRN231\Model\bin\Debug\net8.0\Model.dll
+D:\ky 8\prn231\Assignment1_PRN231\Model\bin\Debug\net8.0\Model.pdb
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\Model.dll
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\refint\Model.dll
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\Model.pdb
+D:\ky 8\prn231\Assignment1_PRN231\Model\obj\Debug\net8.0\ref\Model.dll

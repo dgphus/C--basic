@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Các tệp tạm khác
+*.log
+*.tmp

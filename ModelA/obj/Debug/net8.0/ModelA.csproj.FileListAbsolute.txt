@@ -1,0 +1,15 @@
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\bin\Debug\net8.0\ModelA.deps.json
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\bin\Debug\net8.0\ModelA.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\bin\Debug\net8.0\ModelA.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\bin\Debug\net8.0\Repository.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\bin\Debug\net8.0\Repository.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.csproj.AssemblyReference.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.AssemblyInfoInputs.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.AssemblyInfo.cs
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.csproj.CoreCompileInputs.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.csproj.CopyComplete
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\refint\ModelA.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ModelA.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\ModelA\obj\Debug\net8.0\ref\ModelA.dll

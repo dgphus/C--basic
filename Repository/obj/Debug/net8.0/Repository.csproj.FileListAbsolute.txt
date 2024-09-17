@@ -1,0 +1,14 @@
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\bin\Debug\net8.0\Repository.runtimeconfig.json
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\bin\Debug\net8.0\Repository.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\bin\Debug\net8.0\Repository.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.pdb
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\Repository.genruntimeconfig.cache
+D:\ky 8\Assignment_PRN231\Assignment1_PRN231\Repository\obj\Debug\net8.0\ref\Repository.dll
